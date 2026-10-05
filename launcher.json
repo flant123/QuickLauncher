@@ -1,0 +1,397 @@
+{
+    "apps":  [
+                 {
+                     "name":  "Starward",
+                     "target":  "C:\\Users\\30329\\Desktop\\Starward.lnk",
+                     "keywords":  "mihoyo，原神",
+                     "hits":  1
+                 },
+                 {
+                     "name":  "DeepSeek Harness",
+                     "target":  "D:\\exe\\deepseek-harness\\DeepSeek Harness.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "图吧工具箱",
+                     "target":  "D:\\exe\\图吧工具箱202601\\图吧工具箱2026.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Eagle",
+                     "target":  "D:\\exe\\Eagle\\Eagle.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "夸克",
+                     "target":  "D:\\exe\\Quark\\quark.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "中国移动云盘",
+                     "target":  "D:\\exe\\mobile cloud\\mCloud\\mCloud.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Steam",
+                     "target":  "D:\\steam\\Steam.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "MotrixNext",
+                     "target":  "D:\\exe\\MotrixNext\\motrix-next.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Google Chrome",
+                     "target":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "FufuLauncher",
+                     "target":  "D:\\exe\\FufuLauncher\\FufuLauncher.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Obsidian",
+                     "target":  "D:\\exe\\Obsidian\\Obsidian.exe",
+                     "keywords":  "笔记",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Clash Verge",
+                     "target":  "D:\\exe\\Clash Verge\\clash-verge.exe",
+                     "keywords":  "vpn",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "哔哩哔哩",
+                     "target":  "C:\\Program Files\\bilibili\\哔哩哔哩.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "雷神加速器",
+                     "target":  "C:\\Program Files (x86)\\LeiGod_Acc\\leigod_launcher.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Koodo Reader",
+                     "target":  "C:\\Users\\30329\\AppData\\Local\\Programs\\koodo-reader\\Koodo Reader.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "TapTap",
+                     "target":  "D:\\exe\\TapTap\\TapTap.exe",
+                     "keywords":  "mihoyo",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "WeGame",
+                     "target":  "D:\\exe\\WeGame\\wegame.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "NVIDIA App",
+                     "target":  "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\CEF\\NVIDIA App.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "NVIDIA Broadcast",
+                     "target":  "C:\\Program Files\\NVIDIA Corporation\\NVIDIA Broadcast\\NVIDIA Broadcast.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Ficket",
+                     "target":  "steam://rungameid/1634680",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "微信",
+                     "target":  "D:\\exe\\Weixin\\Weixin.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "QQ",
+                     "target":  "D:\\exe\\QQ\\QQ.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "汽水音乐",
+                     "target":  "D:\\exe\\Soda Music\\SodaMusicLauncher.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "5E对战平台",
+                     "target":  "D:\\exe\\5E against platform\\5EClient\\5EClient.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Bandizip",
+                     "target":  "D:\\exe\\Bandizip\\Bandizip.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "次元城动漫",
+                     "target":  "D:\\exe\\ciyuancheng\\cyc-desktop\\cyc-desktop.exe",
+                     "keywords":  "动漫",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "VeneraNext",
+                     "target":  "D:\\exe\\VeneraNext\\VeneraNext.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Kazumi",
+                     "target":  "D:\\exe\\kazumi\\kazumi.exe",
+                     "keywords":  "动漫",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "FinalShell",
+                     "target":  "D:\\exe\\finalshell\\finalshell.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "WorkBuddy",
+                     "target":  "D:\\exe\\workbuddy\\WorkBuddy.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "OneNote",
+                     "target":  "C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTE.EXE",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Outlook (classic)",
+                     "target":  "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "ima",
+                     "target":  "D:\\exe\\ima.copilot\\ima.copilot.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "元宝",
+                     "target":  "C:\\Program Files\\Tencent\\Yuanbao\\yuanbao.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Z-Library",
+                     "target":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "VMware Workstation Pro",
+                     "target":  "D:\\exe\\VMware\\vmware.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Epic Games Launcher",
+                     "target":  "D:\\exe\\Epic Games\\Launcher\\Portal\\Binaries\\Win64\\EpicGamesLauncher.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "UU远程",
+                     "target":  "D:\\exe\\uu\\GameViewer\\GameViewer.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "YZ加速器",
+                     "target":  "D:\\exe\\yz\\yzTime.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "BetterGI",
+                     "target":  "D:\\exe\\BetterGI\\BetterGI.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Codex++",
+                     "target":  "D:\\exe\\Codex++\\codex-plus-plus.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "PyCharm 2026.2.0.1",
+                     "target":  "D:\\exe\\Pycharm\\PyCharm 2026.2.0.1\\bin\\pycharm64.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Codex++ 管理工具",
+                     "target":  "D:\\exe\\Codex++\\codex-plus-plus-manager.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "维基百科，自由的百科全书",
+                     "target":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "完美世界竞技平台",
+                     "target":  "D:\\exe\\perfectworld\\完美世界竞技平台.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 }
+             ],
+    "webs":  [
+                 {
+                     "name":  "GitHub",
+                     "target":  "https://github.com",
+                     "keywords":  "gh,code",
+                     "hits":  1
+                 },
+                 {
+                     "name":  "X",
+                     "target":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "FACEIT",
+                     "target":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "KOOK",
+                     "target":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "抖音",
+                     "target":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Oopz",
+                     "target":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Twitch",
+                     "target":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "Telegram Web",
+                     "target":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 },
+                 {
+                     "name":  "TikTok",
+                     "target":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome_proxy.exe",
+                     "keywords":  "",
+                     "icon":  "",
+                     "hits":  0
+                 }
+             ],
+    "settings":  {
+                     "theme":  "dark",
+                     "transparency":  true,
+                     "acrylic":  true,
+                     "showList":  false,
+                     "listStyle":  "large",
+                     "hotkeys":  {
+                                     "summon":  "Ctrl+Alt+Space",
+                                     "manage":  "",
+                                     "settings":  "",
+                                     "toggleTheme":  "",
+                                     "toggleList":  "",
+                                     "import":  ""
+                                 }
+                 }
+}

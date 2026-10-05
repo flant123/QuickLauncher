@@ -1,0 +1,10 @@
+# 备份文件
+*.bak
+
+# 自检临时文件
+_gui_ok.txt
+_layout.txt
+_syntax.txt
+
+# PowerShell 配置/日志
+*.log
